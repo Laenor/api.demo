@@ -20,7 +20,7 @@
 `Mot de passe:root`
 `Base de données:mydb`
 
-Dans la table demandes, ajoutez, modifiez et/ou supprimer les données que vous souhaitez.
+Dans la table demandes: ajoutez, modifiez et/ou supprimer les données que vous souhaitez.
 
 ## Test de l'API
 
