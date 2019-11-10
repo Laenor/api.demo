@@ -6,7 +6,7 @@
 
 - Installez **composer** grace à la commande `php composer.phar install`.
 
-- Créez un hote virtuel dans le fichier **etc/hosts**.
+- Créez l'hote virtuel suivant dans le fichier **etc/hosts**:`127.0.0.1 api.demo`.
 
 ## Modification de la base de données
 
